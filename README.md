@@ -33,9 +33,9 @@ The internship provided hands-on experience with tools like KNIME, data visualiz
    - Generated a heatmap showing molecular similarities between penicillamine and a library of decoppering agents, antioxidants, and antirheumatic drugs.
    - Identified promising alternatives for Wilson's Disease treatment.
 [READ MORE](DAY_3/KNIME_Workflow.knime.md)
-[DAY_3 REPORT](DAY_3/Day 3 of the Bioinformatics Internship at Bversity.docx)
+[DAY_3 REPORT](DAY_3/REPORT_1.docx)
 [WORKFLOW](DAY_3/workflow-1.png)
-[HEAT MAP](DAY_3/heat map-1.png)
+[HEAT MAP](DAY_3/Heatmap-1.png)
 
 
 
