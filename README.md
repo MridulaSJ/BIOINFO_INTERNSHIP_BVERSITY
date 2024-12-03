@@ -18,7 +18,7 @@ The internship provided hands-on experience with tools like KNIME, data visualiz
 
 ### **Day 2: Mechanism of Action of Penicillamine**
 - **Objective:** Research and document how penicillamine treats Wilson's Disease.
--**Key Insights:**
+- **Key Insights:**
   -Penicillamine binds to free copper ions in the body to form a stable complex.
   -This complex is excreted through urine, reducing copper toxicity in the liver and brain.
   -Long-term treatment restores copper balance and prevents further accumulation.
