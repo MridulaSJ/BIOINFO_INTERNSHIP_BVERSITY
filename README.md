@@ -1,4 +1,4 @@
-# **Bversity Bioinformatics Internship **
+# **Bversity Bioinformatics Internship**
 
 Welcome to the repository showcasing my work during the <ins>Bversity's Bioinformatics Internship</ins> . Over the course of this internship, I explored bioinformatics concepts and applied them to real-world challenges, focusing on drug discovery for **Wilson's Disease**.
 
@@ -14,5 +14,5 @@ The internship provided hands-on experience with tools like KNIME, data visualiz
 - **Key Learnings:**  
   - Selected **Wilson's Disease** as the target disease for research.  
   - Studied the basics of drug discovery and how bioinformatics tools play a role in molecular analysis.  
-- [Read More](Day_1/Notes.md)  
+- [Read More]()  
 
