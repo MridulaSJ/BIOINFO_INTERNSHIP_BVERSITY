@@ -1,4 +1,4 @@
-# **Bversity Bioinformatics Internship Project**
+# **Bversity Bioinformatics Internship **
 
 Welcome to the repository showcasing my work during the <ins>Bversity's Bioinformatics Internship</ins> . Over the course of this internship, I explored bioinformatics concepts and applied them to real-world challenges, focusing on drug discovery for **Wilson's Disease**.
 
