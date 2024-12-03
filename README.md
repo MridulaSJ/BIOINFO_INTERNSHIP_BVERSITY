@@ -14,5 +14,5 @@ The internship provided hands-on experience with tools like KNIME, data visualiz
 - **Key Learnings:**  
   - Selected **Wilson's Disease** as the target disease for research.  
   - Studied the basics of drug discovery and how bioinformatics tools play a role in molecular analysis.  
-- [Read More]()  
+[Read More](DAY 1/notes.md)  
 
