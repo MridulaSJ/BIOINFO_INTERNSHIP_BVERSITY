@@ -55,5 +55,6 @@ The internship provided hands-on experience with tools like KNIME, data visualiz
       - Coefficients provide quantitative metrics for molecular analysis.
       - Explored GitHub to manage and share bioinformatics projects.
 
- [DAY_5 REPORT](DAY_5/REPORT-3.docx)
+[READ MORE](DAY_5/Coefficient_Analysis.md)
+[DAY_5 REPORT](DAY_5/REPORT-3.docx)
 
