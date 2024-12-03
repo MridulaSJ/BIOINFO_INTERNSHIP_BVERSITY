@@ -23,7 +23,7 @@ The internship provided hands-on experience with tools like KNIME, data visualiz
   -This complex is excreted through urine, reducing copper toxicity in the liver and brain.
   -Long-term treatment restores copper balance and prevents further accumulation.
 
-[Read More](Day_2/Penicillamine.md)
+[Read More](DAY_2/penicillamine.md)
 
 [Penicillamine diagram](Day_2/Penicillamine_Diagram.png)
 
