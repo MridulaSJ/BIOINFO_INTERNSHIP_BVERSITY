@@ -49,5 +49,11 @@ The internship provided hands-on experience with tools like KNIME, data visualiz
 - [WORKFLOW](DAY_4/workflow-2.png)
 - [HEATMAP](DAY_4/heatmap-2.png)
 
+### **Day 5: Coefficient Calculation & GitHub Learning**
+- **Objective:** Calculate coefficients for 2D and 3D conformers and learn GitHub for project management.
+- **Key Insights:**
+      - Coefficients provide quantitative metrics for molecular analysis.
+      - Explored GitHub to manage and share bioinformatics projects.
 
+ [DAY_5 REPORT](DAY_5/REPORT-3.docx)
 
