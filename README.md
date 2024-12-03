@@ -19,11 +19,18 @@ The internship provided hands-on experience with tools like KNIME, data visualiz
 ### **Day 2: Mechanism of Action of Penicillamine**
 - **Objective:** Research and document how penicillamine treats Wilson's Disease.
 - **Key Insights:**
-  -Penicillamine binds to free copper ions in the body to form a stable complex.
-  -This complex is excreted through urine, reducing copper toxicity in the liver and brain.
-  -Long-term treatment restores copper balance and prevents further accumulation.
+  - Penicillamine binds to free copper ions in the body to form a stable complex.
+  - This complex is excreted through urine, reducing copper toxicity in the liver and brain.
+  - Long-term treatment restores copper balance and prevents further accumulation.
 
 [Read More](DAY_2/penicillamine.md)
 
 [Penicillamine diagram](DAY_2/Penicillamine_Diagram.png)
+
+### **Day 3: Heatmap Analysis Using KNIME**
+- **Objective:** Compare penicillamine with other drug molecules.
+- **Key Insights:**
+   - Generated a heatmap showing molecular similarities between penicillamine and a library of decoppering agents, antioxidants, and antirheumatic drugs.
+   - Identified promising alternatives for Wilson's Disease treatment.
+
 
