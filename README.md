@@ -25,5 +25,5 @@ The internship provided hands-on experience with tools like KNIME, data visualiz
 
 [Read More](DAY_2/penicillamine.md)
 
-[Penicillamine diagram](Day_2/Penicillamine_Diagram.png)
+[Penicillamine diagram](DAY_2/Penicillamine_Diagram.png)
 
